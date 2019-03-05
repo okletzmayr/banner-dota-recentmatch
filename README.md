@@ -1,4 +1,4 @@
-# bannner-dota-recentmatch
+# banner-dota-recentmatch
 creates a Dota 2 match overview in form of a PNG banner
 
 ### preview: 
